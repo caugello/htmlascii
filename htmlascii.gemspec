@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "htmlascii"
   spec.version       = Htmlascii::VERSION
   spec.authors       = ["Christophe Augello"]
-  spec.email         = ["christophe.augello@chjt.be"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.email         = ["christophe@augello.be"]
+  spec.description   = %q{Converts HTML ASCII code to characters and symbols}
+  spec.summary       = %q{Converts HTML ASCII code to characters and symbols}
+  spec.homepage      = "https://www.github.com/kartouch/htmlascii"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
