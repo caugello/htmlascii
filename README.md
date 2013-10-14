@@ -1,6 +1,6 @@
 # Htmlascii
 
-TODO: Write a gem description
+Converts HTML ASCII code to characters and symbols
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Htmlascii.convert(string)
 
 ## Contributing
 
