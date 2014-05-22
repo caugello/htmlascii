@@ -1,3 +1,5 @@
+# encoding: 'utf-8'
+
 class Htmlascii
   def self.convert(string)
         ascii = {
